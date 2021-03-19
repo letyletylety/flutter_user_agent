@@ -1,4 +1,14 @@
 # flutter_user_agent version history
+
+## 2.0.0
+
+* Null safety
+
+
+## 1.2.3
+
+* Update 'flutterEmbedding' to 2.
+
 ## 1.2.2
 
 * Update `compileSdkVersion` to 28. (thanks [@miguelpruivo](https://github.com/miguelpruivo)!)
