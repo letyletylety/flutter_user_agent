@@ -4,7 +4,6 @@
 
 * Null safety
 
-
 ## 1.2.3
 
 * Update 'flutterEmbedding' to 2.
